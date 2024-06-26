@@ -9,4 +9,5 @@ Steps for deployment:
 4. Clone this repository.
 5. go to application directory and run commands: in my case my root folder is:
    cd C:\Users\Administrator\Desktop\app\WebApplication1
+   
    dotnet run
